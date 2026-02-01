@@ -7,7 +7,7 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [your_github_username_here's GitHub Profile](https://github.com/howardsebastian)
 
 ## Part 2 - Research
 
